@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 petite modification
+=======
+ancienne version
+>>>>>>> d1d0d5a0d87fa4af335defa0d9710b2644b7c31f
